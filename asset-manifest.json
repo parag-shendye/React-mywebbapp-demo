@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/React-mywebbapp-demo/static/css/main.9c287447.chunk.css",
-    "main.js": "/React-mywebbapp-demo/static/js/main.2f0f695c.chunk.js",
-    "main.js.map": "/React-mywebbapp-demo/static/js/main.2f0f695c.chunk.js.map",
+    "main.css": "/React-mywebbapp-demo/static/css/main.4f13ce39.chunk.css",
+    "main.js": "/React-mywebbapp-demo/static/js/main.0bdcea30.chunk.js",
+    "main.js.map": "/React-mywebbapp-demo/static/js/main.0bdcea30.chunk.js.map",
     "runtime-main.js": "/React-mywebbapp-demo/static/js/runtime-main.a4dc6824.js",
     "runtime-main.js.map": "/React-mywebbapp-demo/static/js/runtime-main.a4dc6824.js.map",
-    "static/css/2.8106cbeb.chunk.css": "/React-mywebbapp-demo/static/css/2.8106cbeb.chunk.css",
-    "static/js/2.0b6e0b73.chunk.js": "/React-mywebbapp-demo/static/js/2.0b6e0b73.chunk.js",
-    "static/js/2.0b6e0b73.chunk.js.map": "/React-mywebbapp-demo/static/js/2.0b6e0b73.chunk.js.map",
+    "static/css/2.d7476d31.chunk.css": "/React-mywebbapp-demo/static/css/2.d7476d31.chunk.css",
+    "static/js/2.ae508f61.chunk.js": "/React-mywebbapp-demo/static/js/2.ae508f61.chunk.js",
+    "static/js/2.ae508f61.chunk.js.map": "/React-mywebbapp-demo/static/js/2.ae508f61.chunk.js.map",
     "index.html": "/React-mywebbapp-demo/index.html",
-    "precache-manifest.85f593e0c493193c2dfe0c9b67558b39.js": "/React-mywebbapp-demo/precache-manifest.85f593e0c493193c2dfe0c9b67558b39.js",
+    "precache-manifest.1938e59cfe97ef8fbbb13ddc4e014878.js": "/React-mywebbapp-demo/precache-manifest.1938e59cfe97ef8fbbb13ddc4e014878.js",
     "service-worker.js": "/React-mywebbapp-demo/service-worker.js",
-    "static/css/2.8106cbeb.chunk.css.map": "/React-mywebbapp-demo/static/css/2.8106cbeb.chunk.css.map",
-    "static/css/main.9c287447.chunk.css.map": "/React-mywebbapp-demo/static/css/main.9c287447.chunk.css.map",
-    "static/js/2.0b6e0b73.chunk.js.LICENSE": "/React-mywebbapp-demo/static/js/2.0b6e0b73.chunk.js.LICENSE",
+    "static/css/2.d7476d31.chunk.css.map": "/React-mywebbapp-demo/static/css/2.d7476d31.chunk.css.map",
+    "static/css/main.4f13ce39.chunk.css.map": "/React-mywebbapp-demo/static/css/main.4f13ce39.chunk.css.map",
+    "static/js/2.ae508f61.chunk.js.LICENSE": "/React-mywebbapp-demo/static/js/2.ae508f61.chunk.js.LICENSE",
     "static/media/logo.svg": "/React-mywebbapp-demo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a4dc6824.js",
-    "static/css/2.8106cbeb.chunk.css",
-    "static/js/2.0b6e0b73.chunk.js",
-    "static/css/main.9c287447.chunk.css",
-    "static/js/main.2f0f695c.chunk.js"
+    "static/css/2.d7476d31.chunk.css",
+    "static/js/2.ae508f61.chunk.js",
+    "static/css/main.4f13ce39.chunk.css",
+    "static/js/main.0bdcea30.chunk.js"
   ]
 }
